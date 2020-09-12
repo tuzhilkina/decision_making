@@ -262,7 +262,8 @@ SDSCE использует не одно видео, а два: тестовое
 
 ***
 
-# Способы оценки алгоритмов [выбора лучшего кадра](https://openaccess.thecvf.com/content_WACV_2020/papers/Ren_Best_Frame_Selection_in_a_Short_Video_WACV_2020_paper.pdf)
+# Способы оценки алгоритмов
+### Выбор лучшего кадра
 ## Оценка *кадров* видео
 Чтобы получить данные о человеческом предпочтении наиболее репрезентативных кадров в коротких видеороликах, выбранная последовательность кадров каждого видео была представлена в Amazon Mechanical Turk (AMT) для сбора аннотаций для каждого кадра. Только работники, прошедшие квалификационный тест, могли оценивать 19 кадров из каждого видео по шкале [1, 2, 3], где 3 означает, что кадр может использоваться для представления видео и имеет высокое качество визуального изображения, а 1 обозначает кадр с низким качеством визуального изображения, не описывающий содержимое видео.
 
@@ -289,8 +290,8 @@ SDSCE использует не одно видео, а два: тестовое
 Лучший подход выбора кадра имеет меньшее значение SD и RD и большее значение AP.
 
 
-
-
 1. Грачева А., Божкова В. П., Казакова А. А., Рожкова Г. И. Субъективная оценка качества статических и видеоизображений: методологический обзор // Сенсорные системы, том 33. 2019. №4. [[Текст]](https://vis.iitp.ru/pdf/papr/12/2019_GrachevaMA_BozhkovaVP_KazakovaAA_et_al_Subektivnaya_otsenka_kachestva_staticheskikh_i_video_izobrazheniy_metodologicheskiy_obzor_1232_.pdf)
 2. Lacey Best-Rowden, Anil K. Jain Learning Face Image Quality from Human Assessments // Transactions on information forensics and security. IEEE, 2018. [[Текст]](https://pdfs.semanticscholar.org/ddf0/99f0e0631da4a6396a17829160301796151c.pdf)
 3. Jian Ren, Xiaohui Shen, Zhe Lin, Radomír Měch Best Frame Selection in a Short Video // Winter Conference on Applications of Computer Vision (WACV). IEEE, 2020. [[Текст]](https://openaccess.thecvf.com/content_WACV_2020/papers/Ren_Best_Frame_Selection_in_a_Short_Video_WACV_2020_paper.pdf)
+4. Huiwen Chang, Fisher Yu, Jue Wang, Douglas Ashley, Adam Finkelstein Automatic Triage for a Photo Series // ACM Transactions on Graphics. Association for Computing Machinery, 
+2016. [[Текст]](https://www.juew.org/publication/sig16-triage.pdf)
