@@ -1,3 +1,4 @@
+# https://app.gitbook.com/@nat-tuzhilkina/s/decision-making/
 * КИ – качество изображения
 * ИЛ – изображение лица
 * КИЛ – качество изображения лица
